@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="./assets/ascii.svg" width="100%">
+<img src="./assets/contributions.svg" width="100%">
